@@ -1,6 +1,6 @@
 # Sahand Yousefi
 
-Machine learning practitioner with over 4 years of experience developing predictive and time-series models, with a strong focus on interpretable and scalable AI systems. My work centers on building data-driven decision systems that integrate statistical modeling, machine learning, and optimization to support decision-making in complex and uncertain environments. I am particularly interested in explainable AI, sequential modeling, and the design of reliable decision systems for high-impact applications. With a multidisciplinary background in data science, business analytics, and industrial engineering, I aim to contribute to rigorous research at the intersection of machine learning and optimization through a PhD.
+Machine learning practitioner with over 4 years of experience developing predictive and time-series models, with a strong focus on interpretable and scalable AI systems. My work centers on building data driven decision systems that integrate statistical modeling, machine learning, and optimization to support decision making in complex and uncertain environments. I am particularly interested in explainable AI, sequential modeling, and the design of reliable decision systems for high-impact applications. With a multidisciplinary background in data science, business analytics, and industrial engineering, I aim to contribute to rigorous research at the intersection of machine learning and optimization.
 
 ---
 
